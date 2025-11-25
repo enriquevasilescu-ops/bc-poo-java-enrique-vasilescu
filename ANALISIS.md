@@ -1,27 +1,27 @@
-# Análisis Orientado a Objetos - [Tu Dominio]
+# Análisis Orientado a Objetos - Pizzería "Sabor Italiano"
 
 ## 1. Identificación del Dominio
 
-**Nombre del negocio:** [Nombre]
-**Tipo:** [Tipo de negocio]
-**Descripción:** [Descripción breve del dominio asignado]
+- **Nombre del negocio:** Sabor Italiano  
+- **Tipo:** Pizzería y Comida Italiana
+- **Descripción:** [Descripción breve del dominio asignado]
 
 ## 2. Objetos Identificados
 
-### Objeto Principal: [Nombre]
-**¿Qué es?:** [Definición]
-**Atributos identificados:**
-- atributo1: tipo - descripción
-- atributo2: tipo - descripción
-- atributo3: tipo - descripción
-- atributo4: tipo - descripción
-- atributo5: tipo - descripción
+### Objeto Principal: Pizza
+- **¿Qué es?:** Es un objeto del dominio de una pizzería que representa un producto que puede ser ofrecido, vendido, preparado o incluido en pedidos.
+- **Atributos identificados:**
+- Nombre: String - descripción
+- Ingredientes: String - descripción
+- Codigo Pizza: String - descripción
+- Precio: Int - descripción
+- Disponible: Boolean - descripción
 
 **Métodos identificados:**
-- metodo1(): descripción de qué hace
-- metodo2(): descripción de qué hace
-- metodo3(): descripción de qué hace
-- metodo4(): descripción de qué hace
+- Void (MostrarInformacion): Este metodo se encarga de mostrar los datos de los atributos del objeto pizza
+- Int (Calcular Costo Total): Este metodo se encarga de calcular y mostrar el precio del objeto pizza
+- String (Get Ingredientes): Este metodo muestra los ingredientes de la pizza
+- Void (Set Disponible): Este metodo se encarga de mostrar la disponibilidad dle objeto pizza
 
 ### Objeto Secundario: [Nombre]
 **¿Qué es?:** [Definición]
