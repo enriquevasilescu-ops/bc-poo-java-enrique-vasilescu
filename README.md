@@ -1,11 +1,11 @@
-# Bootcamp POO Java - [Tu Nombre Completo]
+# Bootcamp POO Java - Enrique Vasilescu Silva
 
 ## 📋 Información
 
-- **Estudiante:** [Nombre Completo]
-- **Ficha:** [Número de Ficha]
-- **Dominio Asignado:** [Tu Dominio]
-- **Instructor:** [Nombre del Instructor]
+- **Estudiante:** Enrique Vasilescu Silva
+- **Ficha:** 3228970 B
+- **Dominio Asignado:** Pizzería "Sabor Italiano"
+- **Instructor:** Erick Granados
 
 ## 📁 Estructura del Repositorio
 
